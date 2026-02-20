@@ -1,1 +1,3 @@
-# projects
+# Projects
+
+- [Clickbait Lense](/clickbait-lense)
